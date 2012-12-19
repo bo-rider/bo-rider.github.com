@@ -1,57 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2080975c-cf6c-4fea-bcef-f7a43ff4e0c5" name="Default" comment="re saving all images in jpg for minimise weight value">
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\EC1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\EC2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\EZ1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\EZ2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\Instrulog_(800).png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\NForce_1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\NForce_2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\Pacific1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\QThemes.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\QuintaF-bookHelloPage1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\QuintaF-bookHelloPage2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\REGNSKAPSNETT.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo_1.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo_2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\RealGo_3.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\army_comparative.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\babbles_ice.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\babbles_water.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\brain.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\cartoon.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\clean_textile.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\gametop(800).png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\gametop.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\hosting.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\lamp.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\mad_skuuuul.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\mascot.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\mascot2.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\mascot_b.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\screens_background.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\smile.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\soldier.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\spa_AllSpas.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\spa_Blog.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\spa_DealDetails.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\spa_MyAccount.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\target.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\tools.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\trening.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\whitespace.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\xmass.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\bo-rider.github.com\images\zenit.png" afterPath="" />
+    <list default="true" id="2080975c-cf6c-4fea-bcef-f7a43ff4e0c5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/illustration.html" afterPath="$PROJECT_DIR$/inner_pages/illustration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/logotypes.html" afterPath="$PROJECT_DIR$/inner_pages/logotypes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/other.html" afterPath="$PROJECT_DIR$/inner_pages/other.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="44" selection-start="6993" selection-end="6993" vertical-scroll-proportion="-14.307693">
+            <state line="125" column="44" selection-start="6993" selection-end="6993" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,7 +36,7 @@
       <file leaf-file-name="illustration.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/illustration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="51" selection-start="4820" selection-end="4820" vertical-scroll-proportion="-28.038462">
+            <state line="89" column="51" selection-start="4820" selection-end="4820" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,7 +45,7 @@
       <file leaf-file-name="logotypes.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inner_pages/logotypes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.509636">
+            <state line="38" column="0" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.25983146">
               <folding />
             </state>
           </provider>
@@ -103,7 +54,7 @@
       <file leaf-file-name="other.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/other.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="60" selection-start="1859" selection-end="1859" vertical-scroll-proportion="-26.153847">
+            <state line="40" column="60" selection-start="1859" selection-end="1859" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,7 +63,7 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="77" selection-start="4547" selection-end="4547" vertical-scroll-proportion="-10.384615">
+            <state line="81" column="77" selection-start="4547" selection-end="4547" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -197,6 +148,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -217,16 +178,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,8 +185,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -319,14 +270,17 @@
       <created>1354069402426</created>
       <updated>1354069402426</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="re saving all images in jpg for minimise weight value">
+      <created>1355960110836</created>
+      <updated>1355960110836</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="113" y="151" width="1404" height="928" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31572166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -341,6 +295,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31572166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -415,6 +370,34 @@
         <state line="8" column="63" selection-start="32835" selection-end="32835" vertical-scroll-proportion="0.049490537" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="44" selection-start="6993" selection-end="6993" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inner_pages/illustration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="51" selection-start="4820" selection-end="4820" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inner_pages/other.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="60" selection-start="1859" selection-end="1859" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inner_pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="77" selection-start="4547" selection-end="4547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="2" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" />
@@ -425,37 +408,9 @@
         <state line="3" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="44" selection-start="6993" selection-end="6993" vertical-scroll-proportion="-14.307693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inner_pages/illustration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="51" selection-start="4820" selection-end="4820" vertical-scroll-proportion="-28.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inner_pages/other.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="60" selection-start="1859" selection-end="1859" vertical-scroll-proportion="-26.153847">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inner_pages/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="77" selection-start="4547" selection-end="4547" vertical-scroll-proportion="-10.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inner_pages/logotypes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.509636">
+        <state line="38" column="0" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.25983146">
           <folding />
         </state>
       </provider>
